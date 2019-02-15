@@ -16,3 +16,7 @@
 - [MVP & Backlog & Sprint History](https://docs.google.com/spreadsheets/d/1w_wG2s0EXF0zX9VTLTY7a3NlnoF_Z9-5zgXrgAqj0dI/edit#gid=1972710944)
 
 - [Sprint Schedule & Component Structure](https://trello.com/b/xrlYoPOh/sprint-manager)
+
+## Video Link
+
+- https://www.youtube.com/watch?v=6H3HEYcb5hY
